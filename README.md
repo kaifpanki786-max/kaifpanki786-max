@@ -56,6 +56,3 @@ GitHub: https://github.com/kaifpanki786-max
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kaifpanki786-max&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kaifpanki786-max&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
