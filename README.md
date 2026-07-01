@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm MD Kaif
 
-<!--
-**kaifpanki786-max/kaifpanki786-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ SOC Analyst Aspirant
 
-Here are some ideas to get you started:
+I'm a cybersecurity enthusiast passionate about Blue Team security, Linux, networking, and Python. I enjoy building cybersecurity tools and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 BCA Graduate
+- 🛡️ SOC Analyst Aspirant
+- 🐧 Linux Enthusiast
+- 🐍 Learning Python
+- 🌐 Interested in Network Security
+- 🔍 Currently learning SIEM, Wazuh, and Microsoft Sentinel
+
+---
+
+## 🛠️ Skills
+
+- Linux
+- Python
+- Git & GitHub
+- Networking
+- Cybersecurity Fundamentals
+- Wireshark
+- Nmap
+
+---
+
+## 📂 Featured Projects
+
+- 🤖 Linux AI Assistant
+- 🛡️ Cybersecurity Projects
+- 🔍 Security Research
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/kaifpanki786-max
