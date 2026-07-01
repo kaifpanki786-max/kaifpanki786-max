@@ -32,6 +32,19 @@ I'm a cybersecurity enthusiast passionate about Blue Team security, Linux, netwo
 
 ---
 
-## 📫 Contact
+## 📬 Contact
+GitHub: https://github.com/kaifpanki786-max
 
-- GitHub: https://github.com/kaifpanki786-max
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  ...
+</p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaifpanki786-max&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifpanki786-max&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
