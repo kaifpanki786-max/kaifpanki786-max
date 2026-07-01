@@ -46,3 +46,8 @@ GitHub: https://github.com/kaifpanki786-max
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifpanki786-max&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kaifpanki786-max&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
