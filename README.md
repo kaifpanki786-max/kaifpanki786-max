@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=SOC+Analyst+Aspirant;Cybersecurity+Enthusiast;Linux+%7C+Python+%7C+Blue+Team;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 # Hi 👋, I'm MD Kaif
 
 ## 🛡️ SOC Analyst Aspirant
