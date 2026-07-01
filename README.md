@@ -20,15 +20,9 @@ I'm a cybersecurity enthusiast passionate about Blue Team security, Linux, netwo
 
 ## 🛠️ Skills
 
-- Linux
-- Python
-- Git & GitHub
-- Networking
-- Cybersecurity Fundamentals
-- Wireshark
-- Nmap
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker,azure&theme=dark" />
+</p>
 
 ## 📂 Featured Projects
 
